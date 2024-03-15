@@ -1,0 +1,1 @@
+# redirecionador-check-app
